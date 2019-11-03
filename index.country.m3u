@@ -449,23 +449,23 @@ http://hithd.camsh.orsk.ru/hls/hithd.m3u8
 http://212.98.171.116/HLS/ctvby/playlist.m3u8
 #EXTINF:-1 tvg-id="tnt-int-by" tvg-name="ТНТ-International (Беларусь)" tvg-language="Russian" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/TNTInternational.png" tvg-country="BY" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Belarus",ТНТ International (Белоруссия)
 http://streams.tv.mts.by/tnt_international/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/wLCwmnr.jpg" tvg-country="BE" tvg-url="" group-title="Belgium",Antenne Centre
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/wLCwmnr.jpg" tvg-country="BE" tvg-url="" group-title="Belgium",Antenne Centre
 http://tvl-live.l3.freecaster.net/live/actv/actv-audio_track=128000-video=1600000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/iWXUmje.jpg" tvg-country="BE" tvg-url="" group-title="Belgium",ATV
 http://api.new.livestream.com/accounts/27755193/events/8452381/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.ibb.co/VmQ5bzM/5107.jpg" tvg-country="BE" tvg-url="" group-title="Belgium",Bel RTL
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.ibb.co/VmQ5bzM/5107.jpg" tvg-country="BE" tvg-url="" group-title="Belgium",Bel RTL
 http://bel-lh.akamaihd.net/i/BEL_1@321282/master.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/rcfUiWV.jpg" tvg-country="BE" tvg-url="" group-title="Belgium",Bruzz
 http://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/YjKqWru.png" tvg-country="BE" tvg-url="" group-title="Belgium",BX1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/YjKqWru.png" tvg-country="BE" tvg-url="" group-title="Belgium",BX1
 http://149.202.81.107:1935/stream/live/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/YjKqWru.png" tvg-country="BE" tvg-url="" group-title="Belgium",BX1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/YjKqWru.png" tvg-country="BE" tvg-url="" group-title="Belgium",BX1
 https://59959724487e3.streamlock.net/stream/live/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/JJcnXUF.png" tvg-country="BE" tvg-url="" group-title="Belgium",Canal C
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/JJcnXUF.png" tvg-country="BE" tvg-url="" group-title="Belgium",Canal C
 http://streamer.canalc.be:1935/canalc/smil:SMIL-canalc-multi/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/JJcnXUF.png" tvg-country="BE" tvg-url="" group-title="Belgium",Canal C
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/JJcnXUF.png" tvg-country="BE" tvg-url="" group-title="Belgium",Canal C
 https://594a365b4a1b2.streamlock.net/canalc/_definst_/live/chunklist_w1917584225.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/uoSMNnr.png" tvg-country="BE" tvg-url="" group-title="Belgium",Canal Zoom
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/uoSMNnr.png" tvg-country="BE" tvg-url="" group-title="Belgium",Canal Zoom
 http://streamer.canalc.be:1935/canalzoom/smil:SMIL-canalzoom-multi/chunklist.m3u8
 #EXTINF:-1 tvg-id="Canvas BE" tvg-name="Canvas BE" tvg-language="Dutch" tvg-logo="https://i.imgur.com/xVgqbbT.jpg" tvg-country="BE" tvg-url="http://195.154.221.171/epg/guidebelgium.xml.gz" group-title="Belgium",Canvas
 https://live-vrt.akamaized.net/groupc/live/14a2c0f6-3043-4850-88a5-7fb062fe7f05/live_aes.isml/playlist.m3u8
@@ -473,11 +473,11 @@ https://live-vrt.akamaized.net/groupc/live/14a2c0f6-3043-4850-88a5-7fb062fe7f05/
 https://live-vrt.akamaized.net/groupc/live/14a2c0f6-3043-4850-88a5-7fb062fe7f05/live_aes.isml/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/LJ4Hpdc.png" tvg-country="BE" tvg-url="" group-title="Belgium",City Music TV
 http://5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="http://i.imgur.com/M1vn8hv.png" tvg-country="BE" tvg-url="" group-title="Belgium",EbS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="http://i.imgur.com/M1vn8hv.png" tvg-country="BE" tvg-url="" group-title="Belgium",EbS
 http://ott.ec.streamcloud.be/live/disk1/EBS/hls_el/EBS.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="http://i.imgur.com/M1vn8hv.png" tvg-country="BE" tvg-url="" group-title="Belgium",EbS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="http://i.imgur.com/M1vn8hv.png" tvg-country="BE" tvg-url="" group-title="Belgium",EbS
 http://ott.ec.streamcloud.be/live/disk1/EBSplus/hls_el/EBSplus.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/zNjUBun.png" tvg-country="BE" tvg-url="" group-title="Belgium",EbS Live
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/zNjUBun.png" tvg-country="BE" tvg-url="" group-title="Belgium",EbS Live
 http://ott.ec.streamcloud.be/live/disk1/EBS/hls_el/EBS-audio_AACL_ell_66400_207=66400-video=800000.m3u8
 #EXTINF:-1 tvg-id="een BE" tvg-name="een BE" tvg-language="Dutch" tvg-logo="https://i.imgur.com/hWfo6az.png" tvg-country="BE" tvg-url="http://195.154.221.171/epg/guidebelgium.xml.gz" group-title="Belgium",Eén
 https://live-vrt.akamaized.net/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live_aes.isml/playlist.m3u8
@@ -491,35 +491,35 @@ https://live-vrt.akamaized.net/groupc/live/f132f1b8-d04d-404e-90e0-6da1abb4f4fc/
 https://live-vrt.akamaized.net/groupc/live/f132f1b8-d04d-404e-90e0-6da1abb4f4fc/live_aes.isml/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/eDYaphB.png" tvg-country="BE" tvg-url="" group-title="Belgium",Ketnet Junior
 http://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/bp1Qp0d.png" tvg-country="BE" tvg-url="" group-title="Belgium",LN24
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/bp1Qp0d.png" tvg-country="BE" tvg-url="" group-title="Belgium",LN24
 https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/8CWBmcN.png" tvg-country="BE" tvg-url="" group-title="Belgium",Notele
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/8CWBmcN.png" tvg-country="BE" tvg-url="" group-title="Belgium",Notele
 https://streaming01.divercom.be/notele_live/_definst_/direct.stream/chunklist_w1424854023.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/8CWBmcN.png" tvg-country="BE" tvg-url="" group-title="Belgium",Notele
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/8CWBmcN.png" tvg-country="BE" tvg-url="" group-title="Belgium",Notele
 https://streaming01.divercom.be/notele_live/_definst_/direct.stream/chunklist_w798871553.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/d2wbX6e.jpg" tvg-country="BE" tvg-url="" group-title="Belgium",NRJ Hits TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/d2wbX6e.jpg" tvg-country="BE" tvg-url="" group-title="Belgium",NRJ Hits TV
 https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/s0CZjmi.png" tvg-country="BE" tvg-url="" group-title="Belgium",Q-Music
 https://dpp-streamlive-plain.medialaancdn.be/qmusic/plain/hls_hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.ibb.co/4jfSTKz/contact.jpg" tvg-country="BE" tvg-url="" group-title="Belgium",Radio Contact Vision
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.ibb.co/4jfSTKz/contact.jpg" tvg-country="BE" tvg-url="" group-title="Belgium",Radio Contact Vision
 http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_1200_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/RMjFeGE.png" tvg-country="BE" tvg-url="" group-title="Belgium",Radio PROS
 http://highvolume04.streampartner.nl/radiopros/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/CzQe0q2.png" tvg-country="BE" tvg-url="" group-title="Belgium",ROB-tv
 http://api.new.livestream.com/accounts/27755193/events/8462344/live.m3u8
-#EXTINF:-1 tvg-id="RTL-TVi BE" tvg-name="RTL-TVi BE" tvg-language="Dutch" tvg-logo="https://i.imgur.com/yjtxdmh.png" tvg-country="BE" tvg-url="http://195.154.221.171/epg/guidebelgium.xml.gz" group-title="Belgium",RTL-TVi
+#EXTINF:-1 tvg-id="RTL-TVi BE" tvg-name="RTL-TVi BE" tvg-language="French" tvg-logo="https://i.imgur.com/yjtxdmh.png" tvg-country="BE" tvg-url="http://195.154.221.171/epg/guidebelgium.xml.gz" group-title="Belgium",RTL-TVi
 http://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/hMdMaEx.png" tvg-country="BE" tvg-url="" group-title="Belgium",Telesambre
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/hMdMaEx.png" tvg-country="BE" tvg-url="" group-title="Belgium",Telesambre
 https://prp.l3.freecaster.net/live/telesambre/telesambre-audio_track=128000-video=2600000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/p2eKv46.jpg" tvg-country="BE" tvg-url="" group-title="Belgium",TV Lux
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/p2eKv46.jpg" tvg-country="BE" tvg-url="" group-title="Belgium",TV Lux
 https://5a0b00d270652.streamlock.net/live/tvlux-live/chunklist_w167261518.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/JFVEcEA.png" tvg-country="BE" tvg-url="" group-title="Belgium",TV Oost
 http://player-api.new.livestream.com/accounts/27755193/events/8511193/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/cRTCPo1.png" tvg-country="BE" tvg-url="" group-title="Belgium",TVCom
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/cRTCPo1.png" tvg-country="BE" tvg-url="" group-title="Belgium",TVCom
 https://5a0b00d270652.streamlock.net/live/tvcom-live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.ibb.co/KGRYRmt/download.jpg" tvg-country="BE" tvg-url="" group-title="Belgium",TVL
 http://player-api.new.livestream.com/accounts/27755193/events/8452383/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/e7xUgDm.png" tvg-country="BE" tvg-url="" group-title="Belgium",Télé MB
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/e7xUgDm.png" tvg-country="BE" tvg-url="" group-title="Belgium",Télé MB
 http://tvl-live.l3.freecaster.net/live/telemb/telemb-audio_track=128000-video=1600000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/aGORIN8.png" tvg-country="BE" tvg-url="" group-title="Belgium",WTV
 https://hls-origin01-focus-wtv.cdn01.rambla.be/adliveorigin-focus-wtv/_definst_/VzXNby.smil/chunklist_b3000000.m3u8
@@ -731,26 +731,84 @@ http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 http://alfa.bg:1935/live/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Alfa TV BG" tvg-name="Alfa TV BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/UaXwtnI.png" tvg-country="BG" tvg-url="http://195.154.221.171/epg/guidebulgaria.xml.gz" group-title="Bulgaria",Alfa TV
 http://alfa.bg:1935/live/live/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/Nl2qhNV.png" tvg-country="BG" tvg-url="" group-title="Bulgaria",BNT 3
+http://84.238.184.104:9000/mmm/mmm/206.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/Vf5bYJl.png" tvg-country="BG" tvg-url="" group-title="Bulgaria",BNT1
+http://84.238.184.104:9000/mmm/mmm/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/WKL3vzF.png" tvg-country="BG" tvg-url="" group-title="Bulgaria",BOX
+http://84.238.184.104:9000/mmm/mmm/135.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/MosYmyy.jpg" tvg-country="BG" tvg-url="" group-title="Bulgaria",BTK
 http://46.249.95.180/vtk/high.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/5Sl6bKi.png" tvg-country="BG" tvg-url="" group-title="Bulgaria",BTK
 http://hls.cdn.bg:2007/fls/vtv/chunklist_w689766971.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/1DPQsv1.png" tvg-country="BG" tvg-url="" group-title="Bulgaria",bTV
+http://84.238.184.104:9000/mmm/mmm/6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/Zz7IOOx.png" tvg-country="BG" tvg-url="" group-title="Bulgaria",bTV ACTION
+http://84.238.184.104:9000/mmm/mmm/20.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/oter867.png" tvg-country="BG" tvg-url="" group-title="Bulgaria",bTV CINEMA
+http://84.238.184.104:9000/mmm/mmm/41.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/YIFSdGC.png" tvg-country="BG" tvg-url="" group-title="Bulgaria",bTV Comedy
+http://84.238.184.104:9000/mmm/mmm/42.m3u8
 #EXTINF:-1 tvg-id="Bulgaria On Air BG" tvg-name="Bulgaria On Air BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/fawQSJN.jpg" tvg-country="BG" tvg-url="http://195.154.221.171/epg/guidebulgaria.xml.gz" group-title="Bulgaria",Bulgaria On Air
 http://edge1.cdn.bg:2006/fls/bonair.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Bulgaria On Air BG" tvg-name="Bulgaria On Air BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/fawQSJN.jpg" tvg-country="BG" tvg-url="http://195.154.221.171/epg/guidebulgaria.xml.gz" group-title="Bulgaria",Bulgaria On Air
 http://hls.cdn.bg:2006/fls/bonair.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="Bulgaria On Air BG" tvg-name="Bulgaria On Air BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/fawQSJN.jpg" tvg-country="BG" tvg-url="http://195.154.221.171/epg/guidebulgaria.xml.gz" group-title="Bulgaria",Bulgaria On Air
 http://ios.cdn.bg:2006/fls/bonair.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/eocNTjL.png" tvg-country="BG" tvg-url="" group-title="Bulgaria",Cartoon Network Bulgaria
+http://84.238.184.104:9000/mmm/mmm/91.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/E4VfPZ4.jpg" tvg-country="BG" tvg-url="" group-title="Bulgaria",City TV
+http://84.238.184.104:9000/mmm/mmm/75.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/oQiH3G8.png" tvg-country="BG" tvg-url="" group-title="Bulgaria",DF
+http://84.238.184.104:9000/mmm/mmm/46.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/lCM6aFL.png" tvg-country="BG" tvg-url="" group-title="Bulgaria",Diema
+http://84.238.184.104:9000/mmm/mmm/45.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/JXYrO7A.png" tvg-country="BG" tvg-url="" group-title="Bulgaria",Diema Sport
+http://84.238.184.104:9000/mmm/mmm/24.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/uCK8e6d.png" tvg-country="BG" tvg-url="" group-title="Bulgaria",Diema Sport 2
+http://84.238.184.104:9000/mmm/mmm/25.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/FpdNgmW.png" tvg-country="BG" tvg-url="" group-title="Bulgaria",Disney Channel Bulgaria
+http://84.238.184.104:9000/mmm/mmm/90.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/dKR4H4h.jpg" tvg-country="BG" tvg-url="" group-title="Bulgaria",Eurosport
+http://84.238.184.104:9000/mmm/mmm/27.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/mtzlR6i.jpg" tvg-country="BG" tvg-url="" group-title="Bulgaria",Eurosport 2
+http://84.238.184.104:9000/mmm/mmm/28.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/KYm7zLj.jpg" tvg-country="BG" tvg-url="" group-title="Bulgaria",Evropa
+http://84.238.184.104:9000/mmm/mmm/145.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/dCW25X5.png" tvg-country="BG" tvg-url="" group-title="Bulgaria",FEN TV
+http://84.238.184.104:9000/mmm/mmm/78.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/eeh0prB.jpg" tvg-country="BG" tvg-url="" group-title="Bulgaria",FOX life
+http://84.238.184.104:9000/mmm/mmm/53.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/Wt47RLA.png" tvg-country="BG" tvg-url="" group-title="Bulgaria",Kino NOVA
+http://84.238.184.104:9000/mmm/mmm/44.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/qskVMhF.png" tvg-country="BG" tvg-url="" group-title="Bulgaria",Light Channel
 http://streamer1.streamhost.org:1935/salive/GMIlcbgM/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/KdpT7b9.jpg" tvg-country="BG" tvg-url="" group-title="Bulgaria",MAX Sport 1
+http://84.238.184.104:9000/mmm/mmm/207.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/nh6kMTK.jpg" tvg-country="BG" tvg-url="" group-title="Bulgaria",MAX Sport 2
+http://84.238.184.104:9000/mmm/mmm/208.m3u8
 #EXTINF:-1 tvg-id="mm.bg" tvg-name="MM" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/fX6Jprk.png" tvg-country="BG" tvg-url="http://195.154.221.171/epg/guidebulgaria.xml.gz" group-title="Bulgaria",MM
 http://pri.cdn.bg:2113/fls/mmtv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/OHlV096.jpg" tvg-country="BG" tvg-url="" group-title="Bulgaria",MTV
+http://84.238.184.104:9000/mmm/mmm/204.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/m7utsIa.jpg" tvg-country="BG" tvg-url="" group-title="Bulgaria",MU-VI TV
 http://ios.cdn.bg:2013/fls/livetv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/m7utsIa.jpg" tvg-country="BG" tvg-url="" group-title="Bulgaria",MU-Vi TV
 http://ios.cdn.bg:2013/fls/livetv.stream/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/V7ioTWv.png" tvg-country="BG" tvg-url="" group-title="Bulgaria",Nickelodeon Bulgaria
+http://84.238.184.104:9000/mmm/mmm/92.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/n93oufN.jpg" tvg-country="BG" tvg-url="" group-title="Bulgaria",NOVA
+http://84.238.184.104:9000/mmm/mmm/5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/hwzlZBW.png" tvg-country="BG" tvg-url="" group-title="Bulgaria",Nova Sport
+http://84.238.184.104:9000/mmm/mmm/26.m3u8
 #EXTINF:-1 tvg-id="Nova TV BG" tvg-name="Nova TV BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/gU4gSR0.jpg" tvg-country="BG" tvg-url="http://195.154.221.171/epg/guidebulgaria.xml.gz" group-title="Bulgaria",Nova TV
 https://e100-nlds107.cdn.bg/nlds/novaplay2/novaent/as/live/novaent_hd_1600_pc.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/hbRRoEp.png" tvg-country="BG" tvg-url="" group-title="Bulgaria",Planeta
+http://84.238.184.104:9000/mmm/mmm/76.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/AHHG2Sw.png" tvg-country="BG" tvg-url="" group-title="Bulgaria",RING
+http://84.238.184.104:9000/mmm/mmm/23.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/40kyY9p.jpg" tvg-country="BG" tvg-url="" group-title="Bulgaria",THE Voice
+http://84.238.184.104:9000/mmm/mmm/74.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/FxLjPLh.jpg" tvg-country="BG" tvg-url="" group-title="Bulgaria",This is Bulgaria
 http://31.13.223.103/travel/community.stream/playlist.m3u8?hash=943212345
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/FxLjPLh.jpg" tvg-country="BG" tvg-url="" group-title="Bulgaria",This is Bulgaria
@@ -767,6 +825,8 @@ http://31.13.223.104:1935/travel/travel.stream/playlist.m3u8
 http://141.136.14.18/kanal1/kanal1.m3u8
 #EXTINF:-1 tvg-id="TV+ BG" tvg-name="TV+ BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/W074hkS.jpg" tvg-country="BG" tvg-url="http://195.154.221.171/epg/guidebulgaria.xml.gz" group-title="Bulgaria",TV+
 http://141.136.14.18/kanal1/kanal1_1500/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/R3uuxZv.jpg" tvg-country="BG" tvg-url="" group-title="Bulgaria",VH1 Classic Bulgaria
+http://84.238.184.104:9000/mmm/mmm/123.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/dvrRMvh.jpg" tvg-country="BG" tvg-url="" group-title="Bulgaria",България 24
 http://46.249.82.226:82/streams/bulgaria24/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/ZCTl9ya.jpg" tvg-country="BG" tvg-url="" group-title="Bulgaria",Черно Море
@@ -5773,10 +5833,16 @@ https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/playlist
 https://slagrtv-live-hls.ssl.cdn.cra.cz/channels/slagrtv/playlist/cze/live_hq.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Czech" tvg-logo="https://www.starnet.cz/tv/slagr2.png" tvg-country="CZ" tvg-url="" group-title="Czech Republic",Šlágr 2
 http://92.62.234.233/slagr2.m3u#.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/DRUNmHQ.png" tvg-country="CD" tvg-url="" group-title="Democratic Republic of the Congo",B-One TV
+https://stream.ecable.tv/b-one/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/IEM93cd.png" tvg-country="CD" tvg-url="" group-title="Democratic Republic of the Congo",RTNC
+https://stream.ecable.tv/rtnc/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://trace.company/wp-content/uploads/2017/08/TRACE-logo-kitoko-01-1.png" tvg-country="CD" tvg-url="" group-title="Democratic Republic of the Congo",Trace Kitoko
 http://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://trace.company/wp-content/uploads/2017/08/TRACE-logo-kitoko-01-1.png" tvg-country="CD" tvg-url="" group-title="Democratic Republic of the Congo",Trace Kitoko
 https://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/Csb9UFe.jpg" tvg-country="CD" tvg-url="" group-title="Democratic Republic of the Congo",Télé 50
+https://stream.ecable.tv/tele50/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Danish" tvg-logo="https://i.imgur.com/hATNB38.jpg" tvg-country="DK" tvg-url="" group-title="Denmark",Kanal Hovedstaden
 https://59b954022ec35.streamlock.net:443/liveTV2/_definst_/smil:liveTVstream2.transcoder.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Danish" tvg-logo="https://i.imgur.com/cpl90ZC.png" tvg-country="DK" tvg-url="" group-title="Denmark",KKRtv
@@ -6039,6 +6105,8 @@ http://185.176.117.243/live/eds/Kanal11/HLS_encr/Kanal11.m3u8
 http://185.176.117.243/live/eds/Kanal12/HLS_encr/Kanal12.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Estonian" tvg-logo="https://i.imgur.com/2j6R5U2.png" tvg-country="EE" tvg-url="" group-title="Estonia",Nickelodeon Estonia
 https://194.204.46.137/live/eds/Nickelodeon/HLS_encr/Nickelodeon-audio_20003=96000-video=2200000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/IRSgGY8.png" tvg-country="EE" tvg-url="" group-title="Estonia",PINGVIN LOLO
+http://82.193.71.93/LoLoEE/index.m3u8
 #EXTINF:-1 tvg-id="Tallinna TV EE" tvg-name="Tallinna TV EE" tvg-language="Estonian" tvg-logo="https://i.imgur.com/lX84EWP.jpg" tvg-country="EE" tvg-url="http://195.154.221.171/epg/guideestonia.xml.gz" group-title="Estonia",Tallinna TV
 https://cdn.leviracloud.eu:11935/TTVLive/smil:ttvlivetest.smil/chunks.m3u8
 #EXTINF:-1 tvg-id="TV3 EE" tvg-name="TV3 EE" tvg-language="Estonian" tvg-logo="https://i.imgur.com/mvaz113.png" tvg-country="EE" tvg-url="http://195.154.221.171/epg/guideestonia.xml.gz" group-title="Estonia",TV3 [HD]
@@ -7731,6 +7799,8 @@ https://stream.ecable.tv/africancine/tracks-v1a1/mono.m3u8
 https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/v99U3JE.png" tvg-country="INT" tvg-url="" group-title="International",Amazing TV
 http://204.45.182.172:26789/i/ghjnvq5o/8c85fsaf/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hausa" tvg-logo="https://i.imgur.com/480VOus.jpg" tvg-country="INT" tvg-url="" group-title="International",Arewa 24
+https://stream.ecable.tv/arewa24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/56TKZah.png" tvg-country="INT" tvg-url="" group-title="International",AsSalt TV
 https://stream.ecable.tv/asstv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KmokZz8.jpg" tvg-country="INT" tvg-url="" group-title="International",AST TV 1
@@ -8791,6 +8861,8 @@ http://video.chaula.tv/hls/live/high/playlist_high.m3u8
 https://194.204.46.137/live/eds/Kanals2_LV_SD/HLS_encr/Kanals2_LV_SD-audio_20002=96000-video=2200000.m3u8
 #EXTINF:-1 tvg-id="kanals2" tvg-name="Kanāls 2" tvg-language="Latvian" tvg-logo="https://i.imgur.com/RqwJuOZ.png" tvg-country="LV" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Latvia",Kanāls 2
 https://cdn2.tvplayhome.lt/live/eds/Kanals2_LV_SD/HLS_encr/Kanals2_LV_SD-audio_20001=96000-video=2200000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/EXJ1A5j.jpg" tvg-country="LV" tvg-url="" group-title="Latvia",KINO 24
+http://82.193.71.93/Kino24LV/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Latvian" tvg-logo="https://i.imgur.com/w1EsHTU.png" tvg-country="LV" tvg-url="" group-title="Latvia",Latvijas Radio 1 106.1 FM Latgale
 http://5a44e5b800a41.streamlock.net:1935/liveVLR1/mp4:LR1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Latvian" tvg-logo="https://i.imgur.com/4npOpPj.png" tvg-country="LV" tvg-url="" group-title="Latvia",Latvijas Radio 3 Klasika
@@ -8801,8 +8873,14 @@ https://cdn2.tvplayhome.lt/live/eds/LNT_LV_SD/HLS_encr/LNT_LV_SD-audio_20001=960
 https://cdn2.tvplayhome.lt/live/eds/LTV1_LV_SD/HLS_encr/LTV1_LV_SD-audio_20001=96000-video=2200000.m3u8
 #EXTINF:-1 tvg-id="ltv7" tvg-name="LTV7" tvg-language="Latvian" tvg-logo="https://i.imgur.com/OdsgKko.png" tvg-country="LV" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Latvia",LTV7
 https://cdn2.tvplayhome.lt/live/eds/LTV7_LV_SD/HLS_encr/LTV7_LV_SD-audio_20000=96000-video=2200000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/6QImzlC.png" tvg-country="LV" tvg-url="" group-title="Latvia",Mamontenok HD
+http://82.193.71.93/MamontLV/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Latvian" tvg-logo="https://i.imgur.com/jRKEkjU.jpg" tvg-country="LV" tvg-url="" group-title="Latvia",Multimania TV / Мультимания ТВ
 http://82.193.71.93/MultimaniaLV/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/IRSgGY8.png" tvg-country="LV" tvg-url="" group-title="Latvia",PINGVIN LOLO
+http://82.193.71.93/LoLoLv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/EqmdFai.jpg" tvg-country="LV" tvg-url="" group-title="Latvia",PRO 100 TV Riga Plauout
+http://82.193.71.93/Pro100TvRuRigaPlauout/index.m3u8
 #EXTINF:-1 tvg-id="re-tv" tvg-name="Re:TV Латвия" tvg-language="Latvian" tvg-logo="https://i.imgur.com/9qhf8Ul.png" tvg-country="LV" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Latvia",Re:TV
 http://edge-telia1.tiesraides.lv/live/retv.lv.1_1/playlist.m3u8
 #EXTINF:-1 tvg-id="re-tv" tvg-name="Re:TV Латвия" tvg-language="Latvian" tvg-logo="https://i.imgur.com/9qhf8Ul.png" tvg-country="LV" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Latvia",Re:TV
@@ -8903,6 +8981,8 @@ https://194.204.46.137/live/eds/LNK/HLS_encr/LNK-audio_20001=96000-video=2200000
 https://194.204.46.137/live/eds/LRT/HLS_encr/LRT-audio_20001=96000-video=2200000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Lithuanian" tvg-logo="https://i.imgur.com/tl9MZ9z.png" tvg-country="LT" tvg-url="" group-title="Lithuania",LRT Lithuania
 https://194.204.46.137/live/eds/LRT_Lithuania/HLS_encr/LRT_Lithuania-audio_20001=96000-video=2200000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/IRSgGY8.png" tvg-country="LT" tvg-url="" group-title="Lithuania",PINGVIN LOLO
+http://82.193.71.93/LoLoLT/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Lithuanian" tvg-logo="https://i.imgur.com/ksZ53A1.png" tvg-country="LT" tvg-url="" group-title="Lithuania",Sport1
 http://185.176.117.243/live/eds/Sport1/HLS_encr/Sport1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Lithuanian" tvg-logo="https://i.imgur.com/ksZ53A1.png" tvg-country="LT" tvg-url="" group-title="Lithuania",Sport1
@@ -9999,6 +10079,10 @@ http://81.30.182.82:18092/hls/live.m3u8
 https://strm.yandex.ru/kal/oceantv_supres/oceantv_supres0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Russian" tvg-logo="https://i.imgur.com/xbTAB8O.png" tvg-country="RU" tvg-url="" group-title="Russia",ORTRK-12
 http://12channel.bonus-tv.ru:80/stream549837052987/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/IRSgGY8.png" tvg-country="RU" tvg-url="" group-title="Russia",PINGVIN LOLO
+http://82.193.71.93:80/LoLoRuSattelite/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/EqmdFai.jpg" tvg-country="RU" tvg-url="" group-title="Russia",PRO 100 TV
+http://82.193.71.93:80/Pro100TvRuSattelite/video.m3u8
 #EXTINF:-1 tvg-id="russia-today" tvg-name="Russia Today" tvg-language="English" tvg-logo="https://i.imgur.com/fXqy322.png" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",RT
 https://rt-news.secure.footprint.net/1103.m3u8
 #EXTINF:-1 tvg-id="russia-today" tvg-name="https://i.imgur.com/fXqy322.png" tvg-language="English" tvg-logo="" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",RT
@@ -11427,6 +11511,8 @@ http://122.155.205.9/live/workpoint.stream/chunklist_w87001385.m3u8
 http://122.155.205.9/live/workpoint.stream/chunklist_w916278991.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/iuOMQIQ.jpg" tvg-country="TH" tvg-url="" group-title="Thailand",Workpoint HD
 http://122.155.205.9/live/workpoint.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/Cx5hQ1x.jpg" tvg-country="TG" tvg-url="" group-title="Togo",TG | TVT International
+https://stream.ecable.tv/tvt/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/Z2Io8n4.png" tvg-country="TT" tvg-url="" group-title="Trinidad and Tobago",The Islamic Network
 http://162.244.81.145:2215/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="Nessma ARB" tvg-name="Nessma ARB" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/Logo_de_Nessma.png" tvg-country="TN" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Tunisia",Nessma

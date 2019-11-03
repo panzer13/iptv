@@ -369,7 +369,7 @@ https://dcunilive38-lh.akamaihd.net/i/dclive_1@692677/index_150_av-p.m3u8?sd=10&
 http://mlive.lahorenews.tv:1935/lahorelive/lnews_1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/mzwdt39.jpg" tvg-country="LY" tvg-url="" group-title="News",Libya 218 News
 http://95.85.47.43/libya218news/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/bp1Qp0d.png" tvg-country="BE" tvg-url="" group-title="News",LN24
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/bp1Qp0d.png" tvg-country="BE" tvg-url="" group-title="News",LN24
 https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/mangalam_tv_in.png" tvg-country="IN" tvg-url="" group-title="News",Mangalam TV
 http://103.199.160.85/Content/mangalam/Live/Channel(Mangalam)/index.m3u8

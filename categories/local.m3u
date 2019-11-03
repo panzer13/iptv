@@ -41,7 +41,7 @@ https://akaku.vod.castus.tv/live/ch3.m3u8
 https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Greek" tvg-logo="https://i.imgur.com/39l3uRU.jpg" tvg-country="GR" tvg-url="" group-title="Local",Alfa Dramas
 http://www.hellasnet.tv/rest.live.hn/ws.alf/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/wLCwmnr.jpg" tvg-country="BE" tvg-url="" group-title="Local",Antenne Centre
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/wLCwmnr.jpg" tvg-country="BE" tvg-url="" group-title="Local",Antenne Centre
 http://tvl-live.l3.freecaster.net/live/actv/actv-audio_track=128000-video=1600000.m3u8
 #EXTINF:-1 tvg-id="atr-ua" tvg-name="ATR" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/tKmYWYH.png" tvg-country="UA" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Local",ATR
 http://api.tv.ipnet.ua/api/v1/manifest/2007308341.m3u8
@@ -81,7 +81,7 @@ http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8
 http://canalmalaga-tv-live.flumotion.com/chunks.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/BXmmroM.jpg" tvg-country="ES" tvg-url="" group-title="Local",Canal Málaga
 http://canalmalaga-tv-live.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/uoSMNnr.png" tvg-country="BE" tvg-url="" group-title="Local",Canal Zoom
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/uoSMNnr.png" tvg-country="BE" tvg-url="" group-title="Local",Canal Zoom
 http://streamer.canalc.be:1935/canalzoom/smil:SMIL-canalzoom-multi/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/Ekt1an0.png" tvg-country="US" tvg-url="" group-title="Local",CBS 9 Washington DC (WUSA-HD)
 https://wusa-lh.akamaihd.net/i/WUSA_Breaking_1@98930/master.m3u8
@@ -269,7 +269,7 @@ https://cdn01.yowi.tv/BBBBBBBBBB/master.m3u8
 http://video.telesafor.com/hls/video_high.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/UJrapXK.jpg" tvg-country="ES" tvg-url="" group-title="Local",TeleSafor
 http://video.telesafor.com/hls/video_low.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/hMdMaEx.png" tvg-country="BE" tvg-url="" group-title="Local",Telesambre
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/hMdMaEx.png" tvg-country="BE" tvg-url="" group-title="Local",Telesambre
 https://prp.l3.freecaster.net/live/telesambre/telesambre-audio_track=128000-video=2600000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="Local",The CW Charlotte NC (WCCB-DT)
 http://api.new.livestream.com/accounts/8522553/events/live/live.m3u8
@@ -285,7 +285,7 @@ https://www.hellasnet.tv/rest.live.hn/trt2/chunklist.m3u8
 http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Greek" tvg-logo="https://i.imgur.com/dUH5Mfw.jpg" tvg-country="GR" tvg-url="" group-title="Local",TV Creta
 https://live.streams.ovh/tvcreta/tvcreta/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/p2eKv46.jpg" tvg-country="BE" tvg-url="" group-title="Local",TV Lux
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/p2eKv46.jpg" tvg-country="BE" tvg-url="" group-title="Local",TV Lux
 https://5a0b00d270652.streamlock.net/live/tvlux-live/chunklist_w167261518.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/JFVEcEA.png" tvg-country="BE" tvg-url="" group-title="Local",TV Oost
 http://player-api.new.livestream.com/accounts/27755193/events/8511193/live.m3u8
@@ -301,7 +301,7 @@ https://cdn01.yowi.tv/5RO3JQE6LN/master.m3u8
 http://tv7plus.com/hls/tv7.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/5qwIslT.jpg" tvg-country="UA" tvg-url="" group-title="Local",TV7+ (Хмельницький)
 http://tv7plus.com/hls/tv7_site.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/cRTCPo1.png" tvg-country="BE" tvg-url="" group-title="Local",TVCom
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/cRTCPo1.png" tvg-country="BE" tvg-url="" group-title="Local",TVCom
 https://5a0b00d270652.streamlock.net/live/tvcom-live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/YAnSTc6.jpg" tvg-country="ES" tvg-url="" group-title="Local",TVG 2
 http://amodino-crtvg.flumotion.com/playlist.m3u8?fluxustv.m3u8
@@ -327,7 +327,7 @@ http://player-api.new.livestream.com/accounts/27755193/events/8452383/live.m3u8
 http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/chucklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="Local",TVW-2
 http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVW2_all/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/e7xUgDm.png" tvg-country="BE" tvg-url="" group-title="Local",Télé MB
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/e7xUgDm.png" tvg-country="BE" tvg-url="" group-title="Local",Télé MB
 http://tvl-live.l3.freecaster.net/live/telemb/telemb-audio_track=128000-video=1600000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="Local",UALR TV
 http://na-all23.secdn.net/pegstream3-live/play/65ea794b-dd82-41ce-8e98-a9177289a063/master.m3u8

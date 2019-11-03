@@ -241,7 +241,7 @@ http://live.streams.ovh:1935/NGradio/NGradio/playlist.m3u8
 https://live.streams.ovh/NGradio/NGradio/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/gtlwWbJ.png" tvg-country="NL" tvg-url="" group-title="Music",Norderney 192 TV
 http://server-66.stream-server.nl:1935/Norderney192/Norderney192/chunklist_w1690526334.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/d2wbX6e.jpg" tvg-country="BE" tvg-url="" group-title="Music",NRJ Hits TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/d2wbX6e.jpg" tvg-country="BE" tvg-url="" group-title="Music",NRJ Hits TV
 https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/yjuaHY1.jpg" tvg-country="NL" tvg-url="" group-title="Music",Operator Radio
 http://cdn-hlm-1.streamnerd.nl/live/operator/playlist.m3u8
@@ -279,7 +279,7 @@ https://dpp-streamlive-plain.medialaancdn.be/qmusic/plain/hls_hd.m3u8
 https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/ubEUBmB.png" tvg-country="DE" tvg-url="" group-title="Music",Radio 21 TV
 http://api.new.livestream.com/accounts/22300508/events/6675945/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.ibb.co/4jfSTKz/contact.jpg" tvg-country="BE" tvg-url="" group-title="Music",Radio Contact Vision
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.ibb.co/4jfSTKz/contact.jpg" tvg-country="BE" tvg-url="" group-title="Music",Radio Contact Vision
 http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_1200_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Italian" tvg-logo="" tvg-country="IT" tvg-url="" group-title="Music",Radio Italia Vision
 http://livetr.teleromagna.it/lifestyle/live/playlist.m3u8
